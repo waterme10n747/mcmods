@@ -1,0 +1,36 @@
+
+
+
+1. 001.bat 실행
+2. 002.exe 실행(폴더에 '마크 버전 업데이트 설명.png 참조)
+3. 'Install' 버튼 클릭 (무슨무슨 'success' 나오면 성공)
+4. 마크 플레이
+
+
+이 설명서는 001.bat, 002.exe 파일 실행 후 정상 작동이 안될 경우를 위해 직접 수정을 위한 설명서 입니다.
+001.bat, 002.exe 실행 후 정상 적용이 되었으면 아래는 진행할 필요 없음.
+
+
+
+각 폴더 3개 안의 내용을 복사(mods, resourcepacks, shaderpacks)
+
+
+[ 복사 위치 ]
+
+(각 폴더 여는 법: 시작키 + R -> 아래 주소 입력 -> 엔터
+
+mods 폴더 위치
+%appdata%/.minecraft/mods
+
+resourcepacks 폴더 위치
+%appdata%/.minecraft/resourcepacks
+
+shaderpacks 폴더 위치
+%appdata%/.minecraft/shaderpacks
+
+* 파일 복사 시 주의점: 기존에 오래된 버전이 있을 수 있으니 같은 이름의 예전 파일들은 삭제 필수
+
+예) 무슨무슨Mod_v1.0.jar -> 무슨무슨Mod.v2.0jar
+이전 1.0.jar 파일을 찾아 삭제
+
+
